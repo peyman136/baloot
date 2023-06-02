@@ -6,24 +6,24 @@
         "sanjabteam",
         "helpers"
     ],
-    "homepage": "https://github.com/sanjabteam/baloot",
+    "homepage": "https://github.com/peyman136/baloot",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "amir alizadeh",
-            "email": "amiralizadeh9480@gmail.com"
+            "name": "Peyman Seifi",
+            "email": "peyman136@gmail.com"
         }
     ],
     "require": {
-        "php": "^7.3|^8.0",
-        "hekmatinasser/verta": "^8.0",
-        "illuminate/support": "^8.0|^9.0",
-        "cviebrock/eloquent-sluggable": "^8.0|^9.0"
+        "php": "^8.1",
+        "hekmatinasser/verta": "^8.3",
+        "illuminate/support": "^8.0|^9.0|^10.0",
+        "cviebrock/eloquent-sluggable": "^8.0|^9.0|^10.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^5.1 | ^6",
-        "phpunit/phpunit": "^9.0"
+        "orchestra/testbench": "^5.1|^6|^8.0",
+        "phpunit/phpunit": "^9.0|^10.0"
     },
     "autoload": {
         "psr-4": {
